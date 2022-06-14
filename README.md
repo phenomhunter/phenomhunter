@@ -13,7 +13,7 @@
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/java.png" width="50"/>
   
 </p>
-<h1 align="center">Learning</h1> 
+<h2 align="center">Learning</h2> 
 <p align="center">
   <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js.png" width="50"/>
   <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/html_css.png" width="50"/>

@@ -9,14 +9,14 @@
 <h1 align="center"> Skills </h1>
 <p align="center">
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/python_logo.png" width="50"/>
-<img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/cpp.png" width="50"/>
+<img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/cpp-removebg-preview.png" width="50"/>
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/java.png" width="50"/>
   
 </p>
 <h1 align="center">Learning</h1> 
 <p align="center">
-  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js.png" width="50"/>
-  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/html_css.png" width="50"/>
+  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js-removebg-preview.png" width="50"/>
+  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/html_css-removebg-preview.png" width="50"/>
 </p>
 
 

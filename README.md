@@ -6,7 +6,7 @@
 ![Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-<h1 style="text-align:center"> Skills </h1>
+<h1 style="text-align:right"> Skills </h1>
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/python_logo.png" width="50"/>
 
 - 🌱 I’m currently learning WordPress, JavaScript, CSS, HTML 

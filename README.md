@@ -8,9 +8,9 @@
 
 <h1 style="text-align:center"> Skills </h1>
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/python_logo.png" width="50"/>
-<h1> Currently Learning </h1>
-- 🌱 I’m currently learning WordPress, JavaScript, CSS, HTML 
-- 
+<h1> Currently Learning 
+  <body> <p>🌱 I’m currently learning WordPress, JavaScript, CSS, HTML </p> </body>
+</h1> 
 
 
 

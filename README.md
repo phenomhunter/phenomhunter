@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Orlando
 #### Software Engineering Student
-![Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineering Student](https://github.com/phenomhunter/phenomhunter/blob/main/python.jpg)
 
 
 Skills: Python/Java/C++

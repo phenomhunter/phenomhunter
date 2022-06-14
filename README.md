@@ -12,7 +12,7 @@
 
 <h1 align="center">Learning</h1> 
 <p align="center">
-  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js_html_css-removebg-preview.png" width="20%"/>
+  <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js_html_css-removebg-preview.png" width="15%"/>
 </p>
 
 

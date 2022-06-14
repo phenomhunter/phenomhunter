@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/js.png" width="50"/>
   <img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/html_css.png" width="50"/>
-  🌱 I’m currently learning WordPress, JavaScript, CSS, HTML 
 </p>
 
 

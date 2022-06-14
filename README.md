@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Orlando
 <img src="https://github.com/phenomhunter/phenomhunter/blob/main/sprites/FreePiercingHamster-max-1mb.gif" width="256" />
-<img src="https://gfycat.com/deadinstructiveeasteuropeanshepherd" width="50"/>
+<img src="https://github.com/phenomhunter/phenomhunter/blob/main/sprites/linkZelda.gif" width="50"/>
 ####Software Engineering Student
 ![Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

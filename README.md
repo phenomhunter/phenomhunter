@@ -6,7 +6,7 @@
 
 
 ###Skills
-<img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/python.jpg" width="50"/>
+<img src="https://github.com/phenomhunter/phenomhunter/blob/main/images/python.png" width="50"/>
 
 - 🌱 I’m currently learning WordPress, JavaScript, CSS, HTML 
 - 
